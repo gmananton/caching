@@ -1,0 +1,4 @@
+rates-fluctuation:
+  period: 5s
+  amount: 0.01
+
